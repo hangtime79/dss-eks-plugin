@@ -1,0 +1,12 @@
+{
+  "actions": [
+    {
+      "ts": 1615616096267,
+      "action": "INSTALL",
+      "user": "api:XZSBTN3ZB475RWDO"
+    }
+  ],
+  "gitState": {
+    "enabled": false
+  }
+}
